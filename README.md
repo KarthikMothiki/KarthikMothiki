@@ -50,8 +50,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&page=1&position=1&related_id=174857&origin=search" />][linkedin]
-[<img align="left" alt="KarthikMothiki | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KarthikMothiki | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />][medium]
 [<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="KarthikMothiki | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/messenger.svg" />][messenger]
 [<img align="left" alt="KarthikMothiki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
@@ -65,7 +65,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/karthikmothiki/
-[whatsapp]: https://api.whatsapp.com/send/?phone=%2B919441315721&text&app_absent=0
+[medium]: https://karthik-mothiki.medium.com/
 [telegram]: https://t.me/Karthik_Mothiki
 [messenger]: https://m.me/karthik.mothiki
 [facebook]: https://www.facebook.com/karthik.mothiki/
