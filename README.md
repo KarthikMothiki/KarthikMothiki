@@ -50,13 +50,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" target="_blank" rel="noopener noreferrer"/>][linkedin]
-[<img align="left" alt="KarthikMothiki | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/whatsapp.svg" target="_blank" rel="noopener noreferrer"/>][whatsapp]
-[<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" target="_blank" rel="noopener noreferrer"/>][telegram]
-[<img align="left" alt="KarthikMothiki | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/messenger.svg"target="_blank" rel="noopener noreferrer" />][messenger]
-[<img align="left" alt="KarthikMothiki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" target="_blank" rel="noopener noreferrer"/>][facebook]
-[<img align="left" alt="KarthikMothiki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" rel="noopener noreferrer"/>][instagram]
-[<img align="left" alt="KarthikMothiki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" rel="noopener noreferrer"/>][twitter]
+[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KarthikMothiki | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="KarthikMothiki | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/messenger.svg" />][messenger]
+[<img align="left" alt="KarthikMothiki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="KarthikMothiki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KarthikMothiki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
