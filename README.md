@@ -50,7 +50,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=1&page=1&position=1&related_id=174857&origin=search" />][linkedin]
 [<img align="left" alt="KarthikMothiki | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="KarthikMothiki | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/messenger.svg" />][messenger]
