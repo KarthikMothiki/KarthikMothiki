@@ -20,20 +20,22 @@
   - Viswavani E.M High School:school::
      - 2016 - 2017
 
-### Licenses & Certifications
-  - Python For Everybody Specialization
-    - Coursera - Aug 2020
-      - [Credential ID GFSU9RBCV5DF](https://www.coursera.org/account/accomplishments/specialization/certificate/GFSU9RBCV5DF)
-  - AWS Technical Essentials and Architecting
-    - Coursera - June 2020
-      - [Credential ID DU2PYK9I](https://drive.google.com/file/d/183oGrley9EHkHigEoo6Tsx6V6_CBJU9Y/view)
-  - AI For Everyone
-    - Coursera - July 2020
-      - [Credential ID FNY5HEHTRGMN](https://www.coursera.org/account/accomplishments/certificate/FNY5HEHTRGMN)
-  - Introduction to Virtual Reality
-    - Coursera - Aug 2020
-      - [Credential ID HB4K9CH2LD3U](https://www.coursera.org/account/accomplishments/certificate/HB4K9CH2LD3U)      
-
+### Blogs
+I've produced some Technical Content in various platforms.
+  - **Medium**
+    - [A Brief Prelude on Dark Web](https://karthik-mothiki.medium.com/a-brief-prelude-on-dark-web-19b139ea8af0)
+    - [PROS AND CONS OF ROBOTICS](https://medium.com/robotics-club-sastra/pros-and-cons-of-robotics-c2daa96a5d27)
+    - [Atom-Universe Paradox](https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6)
+    - [THE WORLD OF ARTIFICIAL INTELLIGENCE](https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5)
+    - [Top 5 Innovations of 2020](https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d)
+    - [MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)](https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9)
+  - **AI Tech Web**
+    - [How Artificial Intelligence Can Help In Business?](https://aitechweb.com/how-artificial-intelligence-can-help-in-business/)
+    - [Are You Ready For The Revolution Of Data Science?](https://aitechweb.com/are-you-ready-for-the-revolution-of-data-science/)
+    - [What Kinds Of Jobs Robots Take From Humans In The Future?](https://aitechweb.com/what-kinds-of-jobs-robots-take-from-humans-in-the-future/)
+    - [TOP 5 INNOVATIONS OF THE MONTH IN AI](https://aitechweb.com/top-5-innovations-of-the-month-in-ai/)
+    - [Top 10 Artificial Intelligence Trends In 2020 That Everyone Should Know](https://aitechweb.com/top-10-artificial-intelligence-trends-in-2020-that-everyone-should-know/)
+    - [How Artificial Intelligence Can Help To Fight Against COVID-19](https://aitechweb.com/how-artificial-intelligence-can-help-to-fight-against-covid-19/)
   
 ### Languages and Tools:
 
