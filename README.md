@@ -89,15 +89,6 @@ I've produced some Technical Content in various platforms.
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sublime-text/sublime-text.png" />
-
 <br />
 <br />
 
@@ -106,7 +97,7 @@ I've produced some Technical Content in various platforms.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:karthik1111mothiki@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)][medium]
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastice&logo=telegram&logoColor=white)][telegram]
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white)][telegram]
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=plastic&logo=messenger&logoColor=white)][messenger]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
 ![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
