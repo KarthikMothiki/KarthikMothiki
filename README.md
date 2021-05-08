@@ -1,13 +1,6 @@
 ### Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 
-## Contents
-
-- [My GitHub Stats](##My GitHub Stats)
-- [Community](#community)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
 
 ## My GitHub  Stats 
   
@@ -64,6 +57,7 @@ I've produced some Technical Content in various platforms.
 [<img align="left" alt="KarthikMothiki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="KarthikMothiki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KarthikMothiki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=social)
 
 
 <br />
