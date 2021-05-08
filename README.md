@@ -82,19 +82,13 @@ I've produced some Technical Content in various platforms.
 
 ### Connect with me:
 
-[<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:karthik1111mothiki@gmail.com)
-[<img align="left" alt="KarthikMothiki | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />][medium]
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
-[<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
-[<img align="left" alt="KarthikMothiki | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/messenger.svg" />][messenger]
-[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)][messenger]
-[<img align="left" alt="KarthikMothiki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[<img align="left" alt="KarthikMothiki | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=social)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)][medium]
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastice&logo=telegram&logoColor=white)][telegram]
+[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=plastic&logo=messenger&logoColor=white)][messenger]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
+![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
 
 
 <br />
