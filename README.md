@@ -5,8 +5,7 @@
   
 ![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=Github%20Followers&style=social) 
 ![GitHub language count](https://img.shields.io/github/languages/count/KarthikMothiki/KarthikMothiki?logo=Languages&style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/KarthikMothiki/KarthikMothiki?logo=Top%20Language&style=plastic)
-![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/KarthikMothiki/KarthikMothiki/master?logo=Code%20Quality&style=plastic)
+
 
 
 # Community
