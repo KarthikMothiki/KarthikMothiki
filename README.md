@@ -83,7 +83,7 @@ I've produced some Technical Content in various platforms.
 ### Connect with me:
 
 [<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
-[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthikmothiki/)
+[![Linkedin](https://img.shields.io/badge/-Karthik Mothiki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karthikmothiki/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthik1111mothiki@gmail.com)
 [<img align="left" alt="KarthikMothiki | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />][medium]
 [<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
