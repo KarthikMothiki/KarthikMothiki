@@ -44,7 +44,7 @@ I've produced some Technical Content in various platforms.
 <br>
 
 <a href="https://github.com/KarthikMothiki/Jarvis">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
