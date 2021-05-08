@@ -18,8 +18,12 @@
     - High School 
       - 2017 - 2019
   - Viswavani E.M High School:school::
-     - 2016 - 2017
+      - 2016 - 2017
 
+# Community
+
+- We have a discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to talk with TechnoPhhiles. Why don't you introduce yourself right now? [Join the TechnoPhiles Discord](https://discord.gg/EVXCUtJXWw)
+- 
 ### Blogs
 I've produced some Technical Content in various platforms.
   - [**Medium**](https://karthik-mothiki.medium.com/)
