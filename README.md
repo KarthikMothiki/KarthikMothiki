@@ -53,7 +53,6 @@ I've produced some Technical Content in various platforms.
 [<img align="left" alt="KarthikMothiki | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KarthikMothiki | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/medium.svg" />][medium]
 [<img align="left" alt="KarthikMothiki | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/telegram.svg" />][telegram]
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [<img align="left" alt="KarthikMothiki | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/messenger.svg" />][messenger]
 [<img align="left" alt="KarthikMothiki | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="KarthikMothiki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
