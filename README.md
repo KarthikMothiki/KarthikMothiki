@@ -3,11 +3,11 @@
 
 # GitHub Stats 
   
-![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=Github%20Followers&style=social) 
-![GitHub forks](https://img.shields.io/github/forks/KarthikMothiki/KarthikMothiki?logo=Forks&style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/KarthikMothiki/KarthikMothiki?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/KarthikMothiki/KarthikMothiki?logo=Watchers&style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/KarthikMothiki?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=Github%20Followers&?style=plastic&logo=appveyor) 
+![GitHub forks](https://img.shields.io/github/forks/KarthikMothiki/KarthikMothiki?logo=Forks&?style=plastic&logo=appveyor)
+![GitHub Repo stars](https://img.shields.io/github/stars/KarthikMothiki/KarthikMothiki??style=plastic&logo=appveyor)
+![GitHub watchers](https://img.shields.io/github/watchers/KarthikMothiki/KarthikMothiki?logo=Watchers&?style=plastic&logo=appveyor)
+![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/KarthikMothiki?style=plastic&logo=appveyor)
 
 
 # Community
