@@ -1,7 +1,9 @@
 ## Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
+- <br />
 
 ![KarthikMothiki](https://user-images.githubusercontent.com/62557178/117545062-dbaf6580-b041-11eb-8ee4-848837a53ec9.jpg)
+<br />
 
 ## My GitHub  Stats 
   
@@ -12,6 +14,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/KarthikMothiki?style=plastic&logo=appveyor)
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
+<br />
 
 ## Community
 
@@ -44,29 +47,29 @@ I've produced some Technical Content in various platforms.
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/KarthikMothiki/Basic-Home-Automation">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Basic-Home-Automation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Basic-Home-Automation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/KarthikMothiki/Jarvis">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <a href="https://github.com/KarthikMothiki/Python-Short-Programs">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Python-Short-Programs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Python-Short-Programs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/KarthikMothiki/Blogs">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Blogs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Blogs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <a href="https://github.com/KarthikMothiki/Portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -107,10 +110,7 @@ I've produced some Technical Content in various platforms.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
 ![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
 
-
 <br />
-<br />
-
 
 
 [linkedin]: https://www.linkedin.com/in/karthikmothiki/
