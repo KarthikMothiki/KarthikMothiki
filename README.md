@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [My GitHub Stats](#My GitHub Stats)
+- [My GitHub Stats](##My GitHub Stats)
 - [Community](#community)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
