@@ -1,26 +1,13 @@
 ### Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 
-![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=Github%20Followers&style=social) ![GitHub language count](https://img.shields.io/github/languages/count/KarthikMothiki/KarthikMothiki?logo=Languages&style=plastic)
+# GitHub Stats 
+  
+![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=Github%20Followers&style=social) 
+![GitHub language count](https://img.shields.io/github/languages/count/KarthikMothiki/KarthikMothiki?logo=Languages&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/KarthikMothiki/KarthikMothiki?logo=Top%20Language&style=plastic)
+![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/KarthikMothiki/KarthikMothiki/master?logo=Code%20Quality&style=plastic)
 
-### Experience!:briefcase:
-  - Technical Content Writer (Internship)
-    - AI Tech Web
-      - May 2020 - July 2020
-
-  - Campus Ambassador (Internship)
-    - Indian Robotics Community
-      - September 2020 - Present
-
-### Education!
-  - Sastra Deemed University:mortar_board::
-    - Bachelor's Degree, Mechatronics Engineering
-      - 2019 - 2023
-  - Sarada Educational Instituitions:school_satchel::
-    - High School 
-      - 2017 - 2019
-  - Viswavani E.M High School:school::
-      - 2016 - 2017
 
 # Community
 
