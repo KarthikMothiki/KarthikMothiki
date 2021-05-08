@@ -53,6 +53,17 @@ I've produced some Technical Content in various platforms.
 </a>
 
 <br>
+
+<a href="https://github.com/KarthikMothiki/Blogs">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Blogs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<a href="https://github.com/KarthikMothiki/Portfolio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
   
 ### Languages and Tools:
 
