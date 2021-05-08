@@ -16,7 +16,7 @@
 - We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to talk with TechnoPhhiles. Why don't you introduce yourself right now? 
 - [Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
 
-### Blogs
+### 📩 Latest Blog Posts
 I've produced some Technical Content in various platforms.
   - [**Medium**](https://karthik-mothiki.medium.com/)
     - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
@@ -34,6 +34,25 @@ I've produced some Technical Content in various platforms.
     - [TOP 5 INNOVATIONS OF THE MONTH IN AI](https://aitechweb.com/top-5-innovations-of-the-month-in-ai/)
     - [Top 10 Artificial Intelligence Trends In 2020 That Everyone Should Know](https://aitechweb.com/top-10-artificial-intelligence-trends-in-2020-that-everyone-should-know/)
     - [How Artificial Intelligence Can Help To Fight Against COVID-19](https://aitechweb.com/how-artificial-intelligence-can-help-to-fight-against-covid-19/)
+
+## 📌 Pinned Repositories
+
+<a href="https://github.com/KarthikMothiki/Basic-Home-Automation">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Basic-Home-Automation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/KarthikMothiki/Jarvis">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<a href="https://github.com/KarthikMothiki/Python-Short-Programs">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Python-Short-Programs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
   
 ### Languages and Tools:
 
