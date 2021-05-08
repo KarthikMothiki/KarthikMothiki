@@ -1,7 +1,7 @@
 ### Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 
-# GitHub Stats 
+# My GitHub  Stats 
   
 ![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=Github%20Followers&?style=social&logo=appveyor) 
 ![GitHub forks](https://img.shields.io/github/forks/KarthikMothiki/KarthikMothiki?logo=Forks&?style=social&logo=appveyor)
@@ -12,8 +12,9 @@
 
 # Community
 
-- We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to talk with TechnoPhhiles. Why don't you introduce yourself right now? [Join the TechnoPhiles Discord](https://discord.gg/EVXCUtJXWw)
-- 
+- We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to talk with TechnoPhhiles. Why don't you introduce yourself right now? 
+- [Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
+
 ### Blogs
 I've produced some Technical Content in various platforms.
   - [**Medium**](https://karthik-mothiki.medium.com/)
