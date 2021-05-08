@@ -1,4 +1,4 @@
-### Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
+## Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 
 ![KarthikMothiki](https://user-images.githubusercontent.com/62557178/117545062-dbaf6580-b041-11eb-8ee4-848837a53ec9.jpg)
@@ -18,7 +18,9 @@
 - We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
 - [Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
 
-### 📩 Latest Blog Posts
+<br />
+
+## 📩 Latest Blog Posts
 I've produced some Technical Content in various platforms.
   - [**Medium**](https://karthik-mothiki.medium.com/)
     - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
@@ -36,6 +38,8 @@ I've produced some Technical Content in various platforms.
     - [TOP 5 INNOVATIONS OF THE MONTH IN AI](https://aitechweb.com/top-5-innovations-of-the-month-in-ai/)
     - [Top 10 Artificial Intelligence Trends In 2020 That Everyone Should Know](https://aitechweb.com/top-10-artificial-intelligence-trends-in-2020-that-everyone-should-know/)
     - [How Artificial Intelligence Can Help To Fight Against COVID-19](https://aitechweb.com/how-artificial-intelligence-can-help-to-fight-against-covid-19/)
+
+<br />
 
 ## 📌 Pinned Repositories
 
@@ -66,8 +70,9 @@ I've produced some Technical Content in various platforms.
 </a>
 
 <br>
+<br />
   
-### Tech Knowledge:
+## Tech Knowledge:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,7 +97,7 @@ I've produced some Technical Content in various platforms.
 <br />
 <br />
 
-### Connect with me:
+## Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:karthik1111mothiki@gmail.com)
