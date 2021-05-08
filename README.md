@@ -101,6 +101,7 @@ I've produced some Technical Content in various platforms.
 [telegram]: https://t.me/Karthik_Mothiki
 [messenger]: https://m.me/karthik.mothiki
 [facebook]: https://www.facebook.com/karthik.mothiki/
+[gmail]: karthik1111mothiki@gmail.com
 [instagram]: https://www.instagram.com/karthik_mothiki/
 [twitter]: https://twitter.com/KarthikMothiki
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KarthikMothiki)
