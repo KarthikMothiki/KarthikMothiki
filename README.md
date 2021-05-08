@@ -40,29 +40,29 @@ I've produced some Technical Content in various platforms.
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/KarthikMothiki/Basic-Home-Automation">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Basic-Home-Automation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Basic-Home-Automation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/KarthikMothiki/Jarvis">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=jarvis&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <a href="https://github.com/KarthikMothiki/Python-Short-Programs">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Python-Short-Programs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Python-Short-Programs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/KarthikMothiki/Blogs">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Blogs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Blogs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 <a href="https://github.com/KarthikMothiki/Portfolio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
