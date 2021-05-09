@@ -6,7 +6,7 @@
 <br />
 
 ```
-# Profile Code
+# ProfileCode.py
 
 dev_name = "Karthik Mothiki"
 
