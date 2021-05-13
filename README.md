@@ -10,6 +10,8 @@
 
 <br />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikMothiki)](https://github.com/ryo-ma/github-profile-trophy)
+
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 - <br />
 
@@ -65,7 +67,7 @@ if __name__ == "__main__":
 
 
 <br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikMothiki)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Community
 
 - We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
