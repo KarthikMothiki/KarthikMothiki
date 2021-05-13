@@ -13,7 +13,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KarthikMothiki&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="KarthikMothiki" /></a> </p>
 
 <hr />
-### My GitHub  Stats 
+
+<p align="center"> <h3 align="center">My GitHub  Stats</h3>
   
 ![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=GitHub%20Followers&style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KarthikMothiki/KarthikMothiki?logo=Forks&style=social)
@@ -22,7 +23,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/KarthikMothiki?style=plastic&logo=appveyor)
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KarthikMothiki&repo=KarthikMothiki-visitors-badge&countColorcountColor&countColor=%237B1E7A?style=plastic)
 
-
+</p>
 <hr />
 
 ```
