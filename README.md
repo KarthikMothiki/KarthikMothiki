@@ -142,6 +142,12 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 
 <br>
 <br />
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
+	<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
+
   
 ## Tech Knowledge:
 
@@ -166,8 +172,8 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br />
-<br />
-
+</p>
+<hr />
 ## Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)][linkedin]
