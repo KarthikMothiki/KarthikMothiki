@@ -92,8 +92,14 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 <h2 align="center">📩 Latest Blog Posts</h2> 
 <p align="left">
 	I've produced some Technical Content in various platforms.<br/>
-	<a href="https://karthik-mothiki.medium.com/" target="_blank" align="left">Medium</a> <br/>
-		<a href="https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0" target="_blank" align="left">&emspThe Booming Realities (AR/VR)</a> <br/>
+	<a href="https://karthik-mothiki.medium.com/" target="_blank" align="left">Blogs in Medium:</a> <br/>
+		<a href="https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0" target="_blank" align="left">📚The Booming Realities (AR/VR)</a> <br/>
+		<a href="https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50" target="_blank" align="left">📚Valuable Deets for every Student</a> <br/>
+		<a href="https://karthik-mothiki.medium.com/a-brief-prelude-on-dark-web-19b139ea8af0" target="_blank" align="left">📚A Brief Prelude on Dark Web</a> <br/>
+		<a href="https://medium.com/robotics-club-sastra/pros-and-cons-of-robotics-c2daa96a5d27" target="_blank" align="left">📚PROS AND CONS OF ROBOTICS</a> <br/>
+		<a href="https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6" target="_blank" align="left">📚Atom-Universe Paradox</a> <br/>
+		<a href="https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5" target="_blank" align="left">📚TTHE WORLD OF ARTIFICIAL INTELLIGENCE</a> <br/>
+		<a href="https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d" target="_blank" align="left">📚Top 5 Innovations of 2020</a> <br/>
 	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
 </p>
 
