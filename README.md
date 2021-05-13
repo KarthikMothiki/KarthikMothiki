@@ -98,29 +98,19 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 		<a href="https://karthik-mothiki.medium.com/a-brief-prelude-on-dark-web-19b139ea8af0" target="_blank" align="left">📚A Brief Prelude on Dark Web</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/pros-and-cons-of-robotics-c2daa96a5d27" target="_blank" align="left">📚PROS AND CONS OF ROBOTICS</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6" target="_blank" align="left">📚Atom-Universe Paradox</a> <br/>
-		<a href="https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5" target="_blank" align="left">📚TTHE WORLD OF ARTIFICIAL INTELLIGENCE</a> <br/>
+		<a href="https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5" target="_blank" align="left">📚THE WORLD OF ARTIFICIAL INTELLIGENCE</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d" target="_blank" align="left">📚Top 5 Innovations of 2020</a> <br/>
-	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
+		<a href="https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9" target="_blank" align="center">📚MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)</a>
+	<a href="https://aitechweb.com/author/karthik/" target="_blank" align="left">Blogs in AI Tech Web:</a> <br/>
+		<a href="https://aitechweb.com/how-artificial-intelligence-can-help-in-business/" target="_blank" align="left">📚How Artificial Intelligence Can Help In Business?</a> <br/>
+		<a href="https://aitechweb.com/are-you-ready-for-the-revolution-of-data-science/" target="_blank" align="left">📚Are You Ready For The Revolution Of Data Science?</a> <br/>
+		<a href="https://aitechweb.com/what-kinds-of-jobs-robots-take-from-humans-in-the-future/" target="_blank" align="left">📚What Kinds Of Jobs Robots Take From Humans In The Future?</a> <br/>
+		<a href="https://aitechweb.com/top-5-innovations-of-the-month-in-ai/" target="_blank" align="left">📚TOP 5 INNOVATIONS OF THE MONTH IN AI</a> <br/>
+		<a href="https://aitechweb.com/top-10-artificial-intelligence-trends-in-2020-that-everyone-should-know/" target="_blank" align="left">📚Top 10 Artificial Intelligence Trends In 2020 That Everyone Should Know</a> <br/>
+		<a href="https://aitechweb.com/how-artificial-intelligence-can-help-to-fight-against-covid-19/" target="_blank" align="left">📚How Artificial Intelligence Can Help To Fight Against COVID-19</a> <br/>
 </p>
 
-   [**Medium**](https://karthik-mothiki.medium.com/)
-    - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
-    - [Valuable Deets for every Student](https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50)
-    - [A Brief Prelude on Dark Web](https://karthik-mothiki.medium.com/a-brief-prelude-on-dark-web-19b139ea8af0)
-    - [PROS AND CONS OF ROBOTICS](https://medium.com/robotics-club-sastra/pros-and-cons-of-robotics-c2daa96a5d27)
-    - [Atom-Universe Paradox](https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6)
-    - [THE WORLD OF ARTIFICIAL INTELLIGENCE](https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5)
-    - [Top 5 Innovations of 2020](https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d)
-    - [MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)](https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9)
-  [**AI Tech Web**](https://aitechweb.com/author/karthik/)
-    - [How Artificial Intelligence Can Help In Business?](https://aitechweb.com/how-artificial-intelligence-can-help-in-business/)
-    - [Are You Ready For The Revolution Of Data Science?](https://aitechweb.com/are-you-ready-for-the-revolution-of-data-science/)
-    - [What Kinds Of Jobs Robots Take From Humans In The Future?](https://aitechweb.com/what-kinds-of-jobs-robots-take-from-humans-in-the-future/)
-    - [TOP 5 INNOVATIONS OF THE MONTH IN AI](https://aitechweb.com/top-5-innovations-of-the-month-in-ai/)
-    - [Top 10 Artificial Intelligence Trends In 2020 That Everyone Should Know](https://aitechweb.com/top-10-artificial-intelligence-trends-in-2020-that-everyone-should-know/)
-    - [How Artificial Intelligence Can Help To Fight Against COVID-19](https://aitechweb.com/how-artificial-intelligence-can-help-to-fight-against-covid-19/)
-
-<br />
+<hr />
 
 ## 📌 Pinned Repositories
 
