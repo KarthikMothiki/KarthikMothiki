@@ -189,6 +189,8 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=plastic&logo=messenger&logoColor=white)][messenger]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
 ![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
+
+## Thank you for scroling down!!
 </p>
 <br />
 <hr />
