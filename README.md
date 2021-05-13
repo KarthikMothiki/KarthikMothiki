@@ -83,7 +83,7 @@ if __name__ == "__main__":
 	<h4 align="left">Community</h4>
 
 We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
-- [Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
+[Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
 
 
 <br />
