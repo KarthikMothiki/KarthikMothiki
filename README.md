@@ -89,8 +89,14 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 <br />
 <hr />
 
-## 📩 Latest Blog Posts
-I've produced some Technical Content in various platforms.
+<h2 align="center">📩 Latest Blog Posts</h2> 
+<p align="left">
+	I've produced some Technical Content in various platforms.
+	<a href="https://karthik-mothiki.medium.com/" target="_blank" align="left">Medium</a> <br/>
+		<a href="https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0" target="_blank" align="left">The Booming Realities (AR/VR)</a> <br/>
+	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
+</p>
+
    [**Medium**](https://karthik-mothiki.medium.com/)
     - [The Booming Realities (AR/VR)](https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0)
     - [Valuable Deets for every Student](https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50)
