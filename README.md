@@ -1,5 +1,10 @@
 <h1 align="center">Hi I'm Karthik Mothiki aka Karthik👋 </h1>
 <h3 align="center">A Passionate Tech and Robotics Enthusiast</h3>
+
+<p align="center">
+	<a href="mailto:karthik1111mothiki@gmail.com" target="_blank" align="center">Send Email</a> |
+	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
+</p>
 ## Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 - <br />
