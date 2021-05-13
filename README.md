@@ -81,7 +81,8 @@ if __name__ == "__main__":
 <details>
 	<summary><h3 style="display: inline;">More about My Works</h3></summary>
 	<h2 align="center">Community</h2>
-	We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? <br/>
+	
+We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
 [Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
 
 
@@ -92,7 +93,7 @@ if __name__ == "__main__":
 <p align="left">
 	I've produced some Technical Content in various platforms.<br/>
 	<a href="https://karthik-mothiki.medium.com/" target="_blank" align="left">Medium</a> <br/>
-		&emsp<a href="https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0" target="_blank" align="left">The Booming Realities (AR/VR)</a> <br/>
+		<a href="https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0" target="_blank" align="left">&emspThe Booming Realities (AR/VR)</a> <br/>
 	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
 </p>
 
