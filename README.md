@@ -100,7 +100,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 		<a href="https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6" target="_blank" align="left">📚Atom-Universe Paradox</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5" target="_blank" align="left">📚THE WORLD OF ARTIFICIAL INTELLIGENCE</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d" target="_blank" align="left">📚Top 5 Innovations of 2020</a> <br/>
-		<a href="https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9" target="_blank" align="center">📚MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)</a>
+		<a href="https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9" target="_blank" align="center">📚MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)</a></br>
 	<a href="https://aitechweb.com/author/karthik/" target="_blank" align="left">Blogs in AI Tech Web:</a> <br/>
 		<a href="https://aitechweb.com/how-artificial-intelligence-can-help-in-business/" target="_blank" align="left">📚How Artificial Intelligence Can Help In Business?</a> <br/>
 		<a href="https://aitechweb.com/are-you-ready-for-the-revolution-of-data-science/" target="_blank" align="left">📚Are You Ready For The Revolution Of Data Science?</a> <br/>
