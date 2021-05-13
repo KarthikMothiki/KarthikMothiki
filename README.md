@@ -14,7 +14,7 @@
 
 <hr />
 
-<p align="center"> <h3 align="center">My GitHub  Stats</h3>
+<p align="center"> <h2 align="center">My GitHub  Stats</h2>
   
 ![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=GitHub%20Followers&style=social)
 ![GitHub forks](https://img.shields.io/github/forks/KarthikMothiki/KarthikMothiki?logo=Forks&style=social)
@@ -65,7 +65,7 @@ if __name__ == "__main__":
 ```
 <hr />
 <details align="center">
-  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
+  <summary align="center"><h2 style="display: inline;">Who am I?<h2></summary>
 	<p align="center">
 		Hi, my name is Karthik Mothiki, I’m from Vijayawada, Andhra Pradesh, born and brought up. I'm currently pursuing my  B.Tech Mechatronics Engineering at Sastra Deeemed University. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 <br />
@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
 
 <details>
-	<summary><h3 style="display: inline;">More about My Works</h3></summary>
+	<summary><h2 style="display: inline;">More about My Works</h2></summary>
 	<h2 align="center">Community</h2>
 	
 We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
@@ -91,7 +91,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 
 <h2 align="center">📩 Latest Blog Posts</h2> 
 <p align="left">
-	I've produced some Technical Content in various platforms.<br/>
+	I've produced some Technical Content in various platforms.<br/><br/>
 	<a href="https://karthik-mothiki.medium.com/" target="_blank" align="left">Blogs in Medium:</a> <br/>
 		<a href="https://karthik-mothiki.medium.com/the-booming-realities-ar-vr-6ab3407932a0" target="_blank" align="left">📚The Booming Realities (AR/VR)</a> <br/>
 		<a href="https://karthik-mothiki.medium.com/valuable-deets-for-every-student-2cd5af54bf50" target="_blank" align="left">📚Valuable Deets for every Student</a> <br/>
@@ -100,7 +100,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 		<a href="https://medium.com/robotics-club-sastra/atom-universe-paradox-263755e585a6" target="_blank" align="left">📚Atom-Universe Paradox</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/the-world-of-artificial-intelligence-f709df7bbbd5" target="_blank" align="left">📚THE WORLD OF ARTIFICIAL INTELLIGENCE</a> <br/>
 		<a href="https://medium.com/robotics-club-sastra/have-you-ever-been-filled-with-amazement-that-every-year-many-innovations-and-startups-are-coming-8640139c367d" target="_blank" align="left">📚Top 5 Innovations of 2020</a> <br/>
-		<a href="https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9" target="_blank" align="center">📚MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)</a></br>
+		<a href="https://medium.com/robotics-club-sastra/microsoft-azure-ce32cc10b2f9" target="_blank" align="center">📚MICROSOFT AZURE - TEAM DATA SCIENCE PROCESS (TDSP)</a></br><br/>
 	<a href="https://aitechweb.com/author/karthik/" target="_blank" align="left">Blogs in AI Tech Web:</a> <br/>
 		<a href="https://aitechweb.com/how-artificial-intelligence-can-help-in-business/" target="_blank" align="left">📚How Artificial Intelligence Can Help In Business?</a> <br/>
 		<a href="https://aitechweb.com/are-you-ready-for-the-revolution-of-data-science/" target="_blank" align="left">📚Are You Ready For The Revolution Of Data Science?</a> <br/>
@@ -146,7 +146,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 <hr />
 
 <details align="center">
-  <summary align="center"><h3 style="display: inline;">What do I Know?<h3></summary>
+  <summary align="center"><h2 style="display: inline;">What do I Know?<h2></summary>
 	<p align="center">
 	
  
@@ -176,7 +176,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 </p>
 <hr />
 <details align="center">
-  <summary align="center"><h3 style="display: inline;">Connect With Me?<h3></summary>
+  <summary align="center"><h2 style="display: inline;">Connect With Me?<h2></summary>
 	<p align="center">
 	
 
