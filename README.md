@@ -22,7 +22,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/KarthikMothiki/KarthikMothiki?logo=Watchers&?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/KarthikMothiki?style=plastic&logo=appveyor)
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KarthikMothiki&repo=KarthikMothiki-visitors-badge&countColorcountColor&countColor=%237B1E7A?style=social)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=KarthikMothiki)
 </p>
 <hr />
 
@@ -200,6 +200,9 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 [gmail]: karthik1111mothiki@gmail.com
 [instagram]: https://www.instagram.com/karthik_mothiki/
 [twitter]: https://twitter.com/KarthikMothiki
-![Github stats](https://github-readme-stats.vercel.app/api?username=KarthikMothiki)
 
+
+</details>
+</details>
+</details>
 
