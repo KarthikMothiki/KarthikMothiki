@@ -145,8 +145,8 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 <details align="center">
   <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
 	<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaMoorthy12&layout=compact&theme=tokyonight&bg_color=ffffff00">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaMoorthy12&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KarthikMothiki&layout=compact&theme=tokyonight&bg_color=ffffff00">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikMothiki&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
 
   
 ## Tech Knowledge:
@@ -174,7 +174,12 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 <br />
 </p>
 <hr />
-## Connect with me:
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">Connect With Me?<h3></summary>
+	<p align="center">
+	
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:karthik1111mothiki@gmail.com)
@@ -183,7 +188,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=plastic&logo=messenger&logoColor=white)][messenger]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
 ![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
-
+</p>
 <br />
 
 
