@@ -42,6 +42,8 @@ if __name__ == "__main__":
     experience()
     
 ```
+[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikMothiki)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## My GitHub  Stats 
   
