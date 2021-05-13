@@ -5,7 +5,11 @@
 	<a href="mailto:karthik1111mothiki@gmail.com" target="_blank" align="center">Send Email</a> |
 	<a href="https://karthikmothiki.github.io/Portfolio/" target="_blank" align="center">Portfolio</a>
 </p>
-## Hi there, I'm [Karthik Mothiki](https://karthikmothiki.github.io/Portfolio/) aka Karthik👋
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikMothiki&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="KarthikMothiki" /></p>
+
+<br />
+
 - B.Tech Mechatronics Engineering. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 - <br />
 
