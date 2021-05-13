@@ -21,7 +21,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/KarthikMothiki/KarthikMothiki?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/KarthikMothiki/KarthikMothiki?logo=Watchers&?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KarthikMothiki/KarthikMothiki?style=plastic&logo=appveyor)
-![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KarthikMothiki&repo=KarthikMothiki-visitors-badge&countColorcountColor&countColor=%237B1E7A?style=plastic)
+![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KarthikMothiki&repo=KarthikMothiki-visitors-badge&countColorcountColor&countColor=%237B1E7A?style=social)
 
 </p>
 <hr />
