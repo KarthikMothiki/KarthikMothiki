@@ -22,7 +22,10 @@
 
 ![KarthikMothiki](https://user-images.githubusercontent.com/62557178/117545062-dbaf6580-b041-11eb-8ee4-848837a53ec9.jpg)
 <br />
-
+</p>
+<details align="center">
+	<p align="left">
+		
 ```
 # ProfileCode.py
 
@@ -60,7 +63,8 @@ if __name__ == "__main__":
     experience()
     
 ```
-
+</p>
+<hr />
 ## My GitHub  Stats 
   
 ![GitHub followers](https://img.shields.io/github/followers/KarthikMothiki?logo=GitHub%20Followers&style=social)
