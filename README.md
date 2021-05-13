@@ -51,6 +51,7 @@ if __name__ == "__main__":
     experience()
     
 ```
+<hr />
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
@@ -75,10 +76,13 @@ if __name__ == "__main__":
 
 <br />
 
-## Community
-
-- We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
+<details>
+	<summary><h3 style="display: inline;">More about My Works</h3></summary>
+	<h4 align="center">Community</h4>
+	<p align="center">
+		- We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
 - [Join the TechnoPhiles Discord Server](https://discord.gg/EVXCUtJXWw)
+
 
 <br />
 
