@@ -142,13 +142,14 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 
 <br>
 <br />
-<details align="center">
-  <summary align="center"><h3 style="display: inline;">What do I do?<h3></summary>
-	<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KarthikMothiki&layout=compact&theme=tokyonight&bg_color=ffffff00">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikMothiki&langs_count=10&layout=compact&theme=tokyonight&bg_color=ffffff00">
 
-  
+<hr />
+
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">What do I Know?<h3></summary>
+	<p align="center">
+	
+ 
 ## Tech Knowledge:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -190,7 +191,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 ![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
 </p>
 <br />
-
+<hr />
 
 [linkedin]: https://www.linkedin.com/in/karthikmothiki/
 [medium]: https://karthik-mothiki.medium.com/
