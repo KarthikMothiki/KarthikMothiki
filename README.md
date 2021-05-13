@@ -42,8 +42,6 @@ if __name__ == "__main__":
     experience()
     
 ```
-[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikMothiki)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## My GitHub  Stats 
   
@@ -56,7 +54,7 @@ if __name__ == "__main__":
 
 
 <br />
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=KarthikMothiki)](https://github.com/ryo-ma/github-profile-trophy)
 ## Community
 
 - We have a discord server! [![Discord](https://img.shields.io/discord/779327072727203860.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/EVXCUtJXWw) This should be your first stop to be a TechnoPhhiles. Why don't you introduce yourself right now? 
