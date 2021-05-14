@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Karthik Mothiki aka Karthi👋 </h1>
+<h1 align="center">Hi I'm Karthik Mothiki aka Karthik👋 </h1>
 <h3 align="center">A Passionate Tech and Robotics Enthusiast</h3>
 
 <p align="center">
