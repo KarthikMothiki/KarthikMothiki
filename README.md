@@ -190,7 +190,7 @@ We have a discord server! [![Discord](https://img.shields.io/discord/77932707272
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic=instagram&logoColor=white)][instagram]
 ![Twitter Follow](https://img.shields.io/twitter/follow/KarthikMothiki?style=plastic)
 
-## Thank you for scroling down!!
+# Thank you for scroling down!!
 </p>
 <br />
 <hr />
