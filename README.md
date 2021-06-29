@@ -67,7 +67,7 @@ if __name__ == "__main__":
 <details align="center">
   <summary align="center"><h2 style="display: inline;">Who am I?<h2></summary>
 	<p align="center">
-		Hi, my name is Karthik Mothiki, I’m from Vijayawada, Andhra Pradesh, born and brought up. I'm currently pursuing my  B.Tech Mechatronics Engineering at Sastra Deeemed University. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
+		Hi, my name is Karthik Mothiki, I’m from Vijayawada, Andhra Pradesh, born and brought up. I'm currently pursuing my  B.Tech Mechatronics Engineering at Sastra Deemed University. As a Student of Mechatronics Engineering, My Field of Interest is very diverse. I Enjoy Coding, majorly have a passion for Robotics and Learning new Technologies. My dream is to become a Skilled Robotics Engineer.:smile::smile:
 <br />
 
 ![KarthikMothiki](https://user-images.githubusercontent.com/62557178/117545062-dbaf6580-b041-11eb-8ee4-848837a53ec9.jpg)
