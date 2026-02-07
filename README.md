@@ -119,10 +119,7 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KarthikMothiki&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&bg_color=00000000" />
-<img height="160" src="https://github-profile-trophy.vercel.app/?username=KarthikMothiki&theme=darkhub" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikMothiki&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=00000000" />
-
+![Kartihk's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikMothiki&show_icons=true&theme=radical)
 <br><br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikMothiki&custom_title=&bg_color=00000000&color=22D3EE&line=22D3EE&point=ffffff&area=true&area_color=22D3EE&hide_border=true)
@@ -131,16 +128,6 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Work
-
-<div align="center">
-
-[![Home Automation](https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Basic-Home-Automation&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&bg_color=00000000)](https://github.com/KarthikMothiki/Basic-Home-Automation)
-[![Jarvis](https://github-readme-stats.vercel.app/api/pin/?username=KarthikMothiki&repo=Jarvis&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&bg_color=00000000)](https://github.com/KarthikMothiki/Jarvis)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Connect
 
