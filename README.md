@@ -58,7 +58,7 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏗️ System Architecture
-<div align="center">
+
 ```
 ╭────────────────────── SYSTEM ARCHITECTURE ──────────────────────╮
 │                                                                 │
@@ -79,7 +79,7 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 │                                                                 │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
-</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔧 Capability Matrix
