@@ -58,7 +58,7 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏗️ System Architecture
-
+<div align="center">
 ```
 ╭────────────────────── SYSTEM ARCHITECTURE ──────────────────────╮
 │                                                                 │
@@ -79,7 +79,7 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 │                                                                 │
 ╰─────────────────────────────────────────────────────────────────╯
 ```
-
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🔧 Capability Matrix
@@ -119,9 +119,6 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 
 <div align="center">
 
-![Kartihk's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarthikMothiki&show_icons=true&theme=radical)
-<br><br>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikMothiki&custom_title=&bg_color=00000000&color=22D3EE&line=22D3EE&point=ffffff&area=true&area_color=22D3EE&hide_border=true)
 
 </div>
@@ -154,8 +151,6 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<div align="center">
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:22D3EE,100:06b6d4&height=100&section=footer)
 
 ```
@@ -165,5 +160,3 @@ The future is not simulated.
 It is embedded, calibrated, and deployed—
 one control loop at a time.
 ```
-
-</div>
