@@ -120,6 +120,7 @@ I architect and ship **production-grade robotics software**—from bare-metal fi
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=KarthikMothiki&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&bg_color=00000000" />
+<img height="160" src="https://github-profile-trophy.vercel.app/?username=KarthikMothiki&theme=darkhub" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikMothiki&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&background=00000000" />
 
 <br><br>
